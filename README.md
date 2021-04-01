@@ -2,7 +2,7 @@
 - 👀 I’m interested in OpenCV
 - 🌱 I’m currently learning PYTHON 
 - 💞️ I’m looking to collaborate on OpenCV
-- 📫 How to reach me - send me a message > gvsecsrl@gmail.com
+- 📫 How to reach me - send me a message >
 
 <!---
 AGNABALAK/AGNABALAK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
